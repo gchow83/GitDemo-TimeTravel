@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Third Commit
 this is a bad comment
+=======
+Second Commit
+>>>>>>> parent of 65107ba (Third Commit)
