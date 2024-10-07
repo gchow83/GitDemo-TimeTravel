@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 Third Commit
-this is a bad Commit
-=======
-Second Commit
->>>>>>> parent of 65107ba (Third Commit)
